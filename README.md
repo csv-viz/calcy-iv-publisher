@@ -13,6 +13,7 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
+git subtree push --prefix dist origin gh-pages
 ```
 
 ### Run your tests
